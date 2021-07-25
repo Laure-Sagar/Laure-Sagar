@@ -56,7 +56,7 @@
 
 ### My Github Stats (🤣😂😂)
 
-![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laure-Sagar&show_icons=true&theme=vue-dark&hide=stars,prs&count_private=true))
+![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laure-Sagar&show_icons=true&theme=vue-dark&hide=stars,prs&count_private=true)
 
 <br />
 
