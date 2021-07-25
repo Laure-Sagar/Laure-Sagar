@@ -47,7 +47,7 @@
 ### Organizations I work with:
 
 [<img align="left" alt="101infotech" width="22px" src="https://101infotechnp.com/assets/images/logo.jpg" />][101infotech]
-[<img align="left" alt="101infotech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/github.svg" />][101infotech_github]
+[<img align="left" alt="101infotech" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][101infotech_github]
 [<img align="left" alt="101infotechnp.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][101infotech]
 [<img align="left" alt="101infotech | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][101infotech_facebook]
 [<img align="left" alt="101infotech | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][101infotech_twitter]
