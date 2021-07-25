@@ -5,7 +5,7 @@
 
 ## I'm a Full Stack Developer!!
 
-- 🏢 I am co-founder of [101INFOTECH][101infotech]!
+- 🏢 I am co-founder of [101infotech][101infotech]!
 - 🌱 I’m currently learning
 - 👯 I’m looking to improve my own skills and help other to improve theirs
 - 📫 How to reach me: slaure354@gmail.com
@@ -45,7 +45,7 @@
 <br />
 
 [website]: https://sagarchhetri101.com.np
-[10infotech]: https:101infotechnp.com
+[101infotech]: https:101infotechnp.com
 [facebook]: https://www.facebook.com/chhetri.sagar.146
 [twitter]: https://twitter.com/laure_sagar
 [instagram]: https://instagram.com/laure_Sagar
