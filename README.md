@@ -56,7 +56,7 @@
 <br />
 <br />
 
-![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laure-Sagar&show_icons=true&theme=radical)
+![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laure-Sagar&show_icons=true&theme=vue-dark&count_private=true))
 
 <br />
 <br />
