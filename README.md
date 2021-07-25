@@ -44,6 +44,13 @@
 <br />
 <br />
 
+### Latest Blog Post
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<br><br>
+
 ## Organizations I work with:
 
 ### 101INFOTECH
@@ -59,11 +66,6 @@
 [<img align="left" alt="101infotech | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][101infotech_instagram]
 
 <br><br>
-
-### Latest Blog Post from 101infotech
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 [website]: https://sagarchhetri101.com.np
 [101infotech]: https://101infotechnp.com
