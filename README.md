@@ -46,7 +46,7 @@
 
 ## Organizations I work with:
 
-#### 101INFOTECH
+### 101INFOTECH
 
 101 INFOTECH is a full-service Web Development and Application Development Company based in Nepal, providing a complete Web and App solution by providing you the essential services including graphic design, UX/UI design, Web Development, Content Management, Social Media Integration, SEO with a team of experienced website designers, developers, and digital strategists.
 
