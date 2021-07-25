@@ -5,7 +5,7 @@
 
 ## I'm a Full Stack Developer!!
 
-- 🏢 I am co-founder of [101infotech]!
+- 🏢 I am co-founder of [101INFOTECH][101infotech]!
 - 🌱 I’m currently learning
 - 👯 I’m looking to improve my own skills and help other to improve theirs
 - 📫 How to reach me: slaure354@gmail.com
