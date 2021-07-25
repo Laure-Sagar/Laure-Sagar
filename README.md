@@ -53,15 +53,12 @@
 <!-- BLOG-POST-LIST:END -->
 
 <br />
-<br />
-<br />
+
 
 ### My Github Stats (🤣😂😂)
 
 ![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laure-Sagar&show_icons=true&theme=vue-dark&hide=stars,prs&count_private=true))
 
-<br />
-<br />
 <br />
 
 ### Lets Listen and Code Together (Spotify)
@@ -69,8 +66,7 @@
 [![Spotify](https://spotify-orpin.vercel.app/api/spotify)](https://open.spotify.com/user/mnz9tolo0hsqn78yw408u2dzb?si=b4b7487bfb5446f5)
 
 <br />
-<br />
-<br />
+
 
 ## Organizations I work with:
 
