@@ -48,6 +48,7 @@
 ### Latest Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Nepal’s E-comm Amasses NPR 8 Billion As COVID-19 Boosts Online Sales!](https://dev.to/lauresagar/nepal-s-e-comm-amasses-npr-8-billion-as-covid-19-boosts-online-sales-3b0d)
 <!-- BLOG-POST-LIST:END -->
 
@@ -55,11 +56,15 @@
 <br />
 <br />
 
+### My Github Stats (🤣😂😂)
+
 ![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laure-Sagar&show_icons=true&theme=vue-dark&hide=stars,prs&count_private=true))
 
 <br />
 <br />
 <br />
+
+### Lets Listen and Code Together (Spotify)
 
 [![Spotify](https://spotify-orpin.vercel.app/api/spotify)](https://open.spotify.com/user/mnz9tolo0hsqn78yw408u2dzb?si=b4b7487bfb5446f5)
 
