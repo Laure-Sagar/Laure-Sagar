@@ -48,11 +48,11 @@
 ### Latest Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Nepal’s E-comm Amasses NPR 8 Billion As COVID-19 Boosts Online Sales!](https://dev.to/lauresagar/nepal-s-e-comm-amasses-npr-8-billion-as-covid-19-boosts-online-sales-3b0d)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
-
 
 ### My Github Stats (🤣😂😂)
 
@@ -66,14 +66,13 @@
 
 <br />
 
-
 ## Organizations I work with:
 
 ### 101INFOTECH
 
 101 INFOTECH is a full-service Web Development and Application Development Company based in Nepal, providing a complete Web and App solution by providing you the essential services including graphic design, UX/UI design, Web Development, Content Management, Social Media Integration, SEO with a team of experienced website designers, developers, and digital strategists.
 
-[<img align="left" alt="101infotech" width="22px" src="https://101infotechnp.com/assets/images/logo_curved.png" />][101infotech]
+[<img align="left" alt="101infotech" width="22px" height="30px" src="https://101infotechnp.com/assets/images/logo_curved.png" />][101infotech]
 [<img align="left" alt="101infotech" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][101infotech_github]
 [<img align="left" alt="101infotechnp.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][101infotech]
 [<img align="left" alt="101infotech | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][101infotech_facebook]
