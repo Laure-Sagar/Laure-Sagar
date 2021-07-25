@@ -18,7 +18,7 @@
 ### Connect with me:
 
 [<img align="left" alt="sagarchhetri101.com.np" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Laure_Sagar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Laure_Sagar | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Laure_Sagar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Laure_Sagar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Laure_Sagar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -44,8 +44,23 @@
 <br />
 <br />
 
+### Organizations I work with:
+
+[<img align="left" alt="101infotech" width="22px" src="https://101infotechnp.com/assets/images/logo.jpg" />][101infotech]
+[<img align="left" alt="101infotech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/github.svg" />][101infotech_github]
+[<img align="left" alt="101infotechnp.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][101infotech]
+[<img align="left" alt="101infotech | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][101infotech_facebook]
+[<img align="left" alt="101infotech | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][101infotech_twitter]
+[<img align="left" alt="101infotech | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][101infotech_linkedin]
+[<img align="left" alt="101infotech | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][101infotech_instagram]
+
 [website]: https://sagarchhetri101.com.np
-[101infotech]: https:101infotechnp.com
+[101infotech]: https://101infotechnp.com
+[101infotech_github]: https://github.com/101INFOTECH
+[101infotech_facebook]: https://facebook.com/101infotech.web
+[101infotech_instagram]: https://instagram.com/101infotech
+[101infotech_twitter]: https://twitter.com/101infotech
+[101infotech_linkedin]: https://linkedin.com/company/101infotech
 [facebook]: https://www.facebook.com/chhetri.sagar.146
 [twitter]: https://twitter.com/laure_sagar
 [instagram]: https://instagram.com/laure_Sagar
