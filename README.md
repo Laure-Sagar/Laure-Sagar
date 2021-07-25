@@ -1,11 +1,11 @@
-### Hi there, I'm Sagar Chhetri - aka [Laure-Sagar][website] 👋
+### Hi there 👋 , I'm Sagar Chhetri - aka [Laure-Sagar][website]
 
 [![Website](https://img.shields.io/website?label=SAGARCHHETRI101.COM.NP&style=for-the-badge&url=https://sagarchhetri101.com.np)](https://sagarchhetri101.com.np)
 [![Twitter Follow](https://img.shields.io/twitter/follow/laure_sagar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=laure_sagar)
 
 ## I'm a Full Stack Developer!!
 
-- 🏢 I am co-founder of [101infotech][101infotech]!
+- 🏢 I am co-founder of [101infotech][101infotech]
 - 🌱 I’m currently learning
 - 👯 I’m looking to improve my own skills and help other to improve theirs
 - 📫 How to reach me: slaure354@gmail.com
@@ -57,6 +57,13 @@
 [<img align="left" alt="101infotech | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][101infotech_twitter]
 [<img align="left" alt="101infotech | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][101infotech_linkedin]
 [<img align="left" alt="101infotech | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][101infotech_instagram]
+
+<br><br>
+
+### Latest Blog Post from 101infotech
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [website]: https://sagarchhetri101.com.np
 [101infotech]: https://101infotechnp.com
