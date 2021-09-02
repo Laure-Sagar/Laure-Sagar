@@ -90,7 +90,6 @@
 ### 📺 Latest YouTube Videos from 101infotech
 
 <!-- YOUTUBE:START -->
-- [101 INFOTECH || Intro video|| Teaser 2](https://www.youtube.com/watch?v=Jg3mdbZO7Wk)
 - [101 INFOTECH || Intro video|| Teaser](https://www.youtube.com/watch?v=G4GjPawPLps)
 <!-- YOUTUBE:END -->
 
