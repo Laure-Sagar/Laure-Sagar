@@ -90,7 +90,6 @@
 ### 📺 Latest YouTube Videos from 101infotech
 
 <!-- YOUTUBE:START -->
-- [Coronavirus Precautions: What To Do & What Not To | COVID 19](https://www.youtube.com/watch?v=y3ZpDO4BEYA)
 - [101 INFOTECH || Intro video|| Teaser](https://www.youtube.com/watch?v=G4GjPawPLps)
 <!-- YOUTUBE:END -->
 
