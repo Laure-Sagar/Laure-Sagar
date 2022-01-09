@@ -52,7 +52,11 @@
 ### Latest Blog Post
 
 <!-- BLOG-POST-LIST:START -->
-- [Nepal’s E-comm Amasses NPR 8 Billion As COVID-19 Boosts Online Sales!](https://dev.to/lauresagar/nepal-s-e-comm-amasses-npr-8-billion-as-covid-19-boosts-online-sales-3b0d)
+- [TECH-CELEBRATED AFTER SPENDING A YEAR LIVING ONLINE | BY NEHA SHRESTHA](https://101infotech.com.np/blog/tech-celebrated-after-spending-a-year-living-online-by-neha-shrestha-v2Wx6hrd5M)
+- [ANDROID MESSAGES CAN NOW TRANSLATE YOUR IMESSAGE REACTIONS INTO EMOJIS](https://101infotech.com.np/blog/android-messages-can-translate-imessage-emojis)
+- [RESUME MISTAKES THAT COULD COST YOU THE JOB](https://101infotech.com.np/blog/resume-mistakes-that-could-cost-you-the-job)
+- [YOUTUBE IS REMOVING THE DISLIKE COUNTS FROM VIDEOS](https://101infotech.com.np/blog/youtube-removing-dislike-counts)
+- [OUR SERVICES. “THE BEST WAY TO FIND YOURSELF IS TO LOSE YOURSELF IN THE SERVICE OF OTHERS.”](https://101infotech.com.np/blog/our-services-the-best-way-to-find-yourself-is-to-lose-yourself-in-the-service-of-others-EyMzMhqATO)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
