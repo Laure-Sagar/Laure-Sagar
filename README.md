@@ -52,11 +52,11 @@
 ### Latest Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [GOOGLE DRIVE’S WARNING BANNER WARN SUSPICIOUS FILE](https://101infotech.com.np/blog/google-drives-warning-banner-warn-suspicious-file-ZYSjT5ZuD9)
 - [GMAIL VS OUTLOOK: THE ULTIMATE EMAIL COMPARISON](https://101infotech.com.np/blog/gmail-vs-outlook-the-ultimate-email-comparison-ZGr5WXDt8T)
 - [QR CODES-INNOVATIVE WAYS TO USE THEM IN  BUSINESS](https://101infotech.com.np/blog/qr-codes-innovative-ways-to-use-them-in-business-fGDqTht085)
 - [TECH-CELEBRATED AFTER SPENDING A YEAR LIVING ONLINE | BY NEHA SHRESTHA](https://101infotech.com.np/blog/tech-celebrated-after-spending-a-year-living-online-by-neha-shrestha-v2Wx6hrd5M)
 - [ANDROID MESSAGES CAN NOW TRANSLATE YOUR IMESSAGE REACTIONS INTO EMOJIS](https://101infotech.com.np/blog/android-messages-can-translate-imessage-emojis)
-- [RESUME MISTAKES THAT COULD COST YOU THE JOB](https://101infotech.com.np/blog/resume-mistakes-that-could-cost-you-the-job)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
