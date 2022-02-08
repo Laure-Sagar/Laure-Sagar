@@ -52,11 +52,11 @@
 ### Latest Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [HOW DO YOU WRITE A CORPORATE VIDEO SCRIPT?](https://101infotech.com.np/blogs/how-do-you-write-a-corporate-video-script-3p22U1hw7E)
 - [GOOGLE DRIVE’S WARNING BANNER WARN SUSPICIOUS FILE](https://101infotech.com.np/blogs/google-drives-warning-banner-warn-suspicious-file-ZYSjT5ZuD9)
 - [GMAIL VS OUTLOOK: THE ULTIMATE EMAIL COMPARISON](https://101infotech.com.np/blogs/gmail-vs-outlook-the-ultimate-email-comparison-ZGr5WXDt8T)
 - [QR CODES-INNOVATIVE WAYS TO USE THEM IN  BUSINESS](https://101infotech.com.np/blogs/qr-codes-innovative-ways-to-use-them-in-business-fGDqTht085)
 - [TECH-CELEBRATED AFTER SPENDING A YEAR LIVING ONLINE | BY NEHA SHRESTHA](https://101infotech.com.np/blogs/tech-celebrated-after-spending-a-year-living-online-by-neha-shrestha-v2Wx6hrd5M)
-- [ANDROID MESSAGES CAN NOW TRANSLATE YOUR IMESSAGE REACTIONS INTO EMOJIS](https://101infotech.com.np/blogs/android-messages-can-translate-imessage-emojis)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
