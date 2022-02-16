@@ -94,7 +94,7 @@
 ### 📺 Latest YouTube Videos from 101infotech
 
 <!-- YOUTUBE:START -->
-- [Hacking || Types of Hacker || Hacking || ft. Ayush  Chapagain](https://www.youtube.com/watch?v=8tDUKpm-q7k)
+- [Hacking || Types of Hacker || ft. Ayush  Chapagain](https://www.youtube.com/watch?v=8tDUKpm-q7k)
 - [Make a Business Card using Vectornator &lpar;Timelapse&rpar; || 101INFOTECH || Shabda Shrestha](https://www.youtube.com/watch?v=OTB7Yzx5_JM)
 - [Vector Art Timelapse Using VECTORNATOR || 101INFOTECH || Shabda Shrestha](https://www.youtube.com/watch?v=z4N9A-g-mMs)
 - [TEAM REVEAL  |  TEAM | 101INFOTECH](https://www.youtube.com/watch?v=UHmWNHfj1vI)
