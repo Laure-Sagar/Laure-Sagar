@@ -52,7 +52,7 @@
 ### Latest Blog Post
 
 <!-- BLOG-POST-LIST:START -->
-- [JOURNAL](https://101infotech.com.np/blogs/journal-Trfie3Dh8s)
+- [JOURNAL | A BACKEND DEVELOPER](https://101infotech.com.np/blogs/journal-a-backend-developer-DPA6EC9NsH)
 - [NFT&lpar;NON FUNGIBLE TOKEN&rpar; &amp;amp; USES OF NFT](https://101infotech.com.np/blogs/nftnon-fungible-token-uses-of-nft-fer41ZQDMx)
 - [BLOCKCHAIN &amp;amp; TYPES](https://101infotech.com.np/blogs/blockchain-types-JOAQC2E4Zm)
 - [HOW DO YOU WRITE A CORPORATE VIDEO SCRIPT?](https://101infotech.com.np/blogs/how-do-you-write-a-corporate-video-script-3p22U1hw7E)
