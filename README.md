@@ -52,7 +52,7 @@
 ### Latest Blog Post
 
 <!-- BLOG-POST-LIST:START -->
-- [OUR STORY | SAGAR CHHETRI | CEO/FOUNDER](https://101infotech.com.np/blogs/our-story-sagar-chhetri-ceofounder-G7kkllN6bo)
+- [OUR STORY BY SAGAR CHHETRI | CEO/FOUNDER](https://101infotech.com.np/blogs/our-story-by-sagar-chhetri-ceofounder-3yeeY2dtum)
 - [JOURNAL | A BACKEND DEVELOPER](https://101infotech.com.np/blogs/journal-a-backend-developer-DPA6EC9NsH)
 - [NFT&lpar;NON FUNGIBLE TOKEN&rpar; &amp;amp; USES OF NFT](https://101infotech.com.np/blogs/nftnon-fungible-token-uses-of-nft-fer41ZQDMx)
 - [BLOCKCHAIN &amp;amp; TYPES](https://101infotech.com.np/blogs/blockchain-types-JOAQC2E4Zm)
