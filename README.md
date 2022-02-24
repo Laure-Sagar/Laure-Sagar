@@ -52,11 +52,11 @@
 ### Latest Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [OUR STORY | SAGAR CHHETRI | CEO/FOUNDER](https://101infotech.com.np/blogs/our-story-sagar-chhetri-ceofounder-G7kkllN6bo)
 - [JOURNAL | A BACKEND DEVELOPER](https://101infotech.com.np/blogs/journal-a-backend-developer-DPA6EC9NsH)
 - [NFT&lpar;NON FUNGIBLE TOKEN&rpar; &amp;amp; USES OF NFT](https://101infotech.com.np/blogs/nftnon-fungible-token-uses-of-nft-fer41ZQDMx)
 - [BLOCKCHAIN &amp;amp; TYPES](https://101infotech.com.np/blogs/blockchain-types-JOAQC2E4Zm)
 - [HOW DO YOU WRITE A CORPORATE VIDEO SCRIPT?](https://101infotech.com.np/blogs/how-do-you-write-a-corporate-video-script-3p22U1hw7E)
-- [GOOGLE DRIVE’S WARNING BANNER WARN SUSPICIOUS FILE](https://101infotech.com.np/blogs/google-drives-warning-banner-warn-suspicious-file-ZYSjT5ZuD9)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
