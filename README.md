@@ -94,7 +94,7 @@
 ### 📺 Latest YouTube Videos from 101infotech
 
 <!-- YOUTUBE:START -->
-- [React in Laravel Tutorial  || 101 INFOTECH ft.Sagar Chettri || Larval](https://www.youtube.com/watch?v=wSz8xQmdZ5E)
+- [Install React in Laravel Tutorial  | 101 INFOTECH | ft. Sagar Chettri](https://www.youtube.com/watch?v=wSz8xQmdZ5E)
 - [UI/UX design for Cab Booking App &lpar;Timelapse&rpar;  || FIGMA || 101infotech || Satyendra Bhattarai](https://www.youtube.com/watch?v=G7hJUjsdEqc)
 - [Hacking || Types of Hacker || ft. Ayush  Chapagain](https://www.youtube.com/watch?v=8tDUKpm-q7k)
 - [Make a Business Card using Vectornator &lpar;Timelapse&rpar; || 101INFOTECH || Shabda Shrestha](https://www.youtube.com/watch?v=OTB7Yzx5_JM)
