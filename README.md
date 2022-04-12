@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning
 - 👯 I’m looking to improve my own skills and help other to improve theirs
 - 📫 How to reach me: slaure354@gmail.com
-- ⚡ Fun fact: I love to listen music and interested buisness.
+- ⚡ Fun fact: I love to listen music and interested in buisness and entrepreneurship.
 
 <!-- ### Spotify Playing 🎧
 
