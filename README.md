@@ -94,11 +94,11 @@
 ### 📺 Latest YouTube Videos from 101infotech
 
 <!-- YOUTUBE:START -->
+- [Nepal&#39;s First Free Location API | Nepal Location](https://www.youtube.com/watch?v=SChIAXENhzg)
 - [Install React in Laravel Tutorial  | 101 INFOTECH | ft. Sagar Chettri](https://www.youtube.com/watch?v=wSz8xQmdZ5E)
 - [UI/UX design for Cab Booking App &lpar;Timelapse&rpar;  || FIGMA || 101infotech || Satyendra Bhattarai](https://www.youtube.com/watch?v=G7hJUjsdEqc)
 - [Hacking || Types of Hacker || ft. Ayush  Chapagain](https://www.youtube.com/watch?v=8tDUKpm-q7k)
 - [Make a Business Card using Vectornator &lpar;Timelapse&rpar; || 101INFOTECH || Shabda Shrestha](https://www.youtube.com/watch?v=OTB7Yzx5_JM)
-- [Vector Art Timelapse Using VECTORNATOR || 101INFOTECH || Shabda Shrestha](https://www.youtube.com/watch?v=z4N9A-g-mMs)
 <!-- YOUTUBE:END -->
 
 [website]: https://sagarchhetri101.com.np
