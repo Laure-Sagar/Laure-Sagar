@@ -52,11 +52,11 @@
 ### Latest Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [&lpar;END OF +2… NOW WHAT?&rpar; THE REAL STRUGGLE BEGINS…](https://101infotech.com.np/blogs/end-of-2-now-what-the-real-struggle-begins-H8MS3YL0Ek)
 - [5 HABITS THAT CHANGED MY LIFE FROM INTROVERT TO CEO](https://101infotech.com.np/blogs/5-habits-that-changed-my-life-from-introvert-to-ceo-EKDTjFxrED)
 - [OUR STORY BY SAGAR CHHETRI | CEO/FOUNDER](https://101infotech.com.np/blogs/our-story-by-sagar-chhetri-ceofounder-3yeeY2dtum)
 - [JOURNAL | A BACKEND DEVELOPER](https://101infotech.com.np/blogs/journal-a-backend-developer-DPA6EC9NsH)
 - [NFT&lpar;NON FUNGIBLE TOKEN&rpar; &amp;amp; USES OF NFT](https://101infotech.com.np/blogs/nftnon-fungible-token-uses-of-nft-fer41ZQDMx)
-- [BLOCKCHAIN &amp;amp; TYPES](https://101infotech.com.np/blogs/blockchain-types-JOAQC2E4Zm)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
