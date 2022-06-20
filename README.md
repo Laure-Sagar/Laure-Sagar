@@ -94,11 +94,11 @@
 ### 📺 Latest YouTube Videos from 101infotech
 
 <!-- YOUTUBE:START -->
+- [Search for the best Hostel in Kathmandu Now | Your Hostel](https://www.youtube.com/watch?v=w6BCq-D75UI)
 - [Your Hostel | Trailer Video | Hostel Finder | Coming Soon](https://www.youtube.com/watch?v=XDYciHTmCQg)
 - [Character Vector Art | By Shabda Shrestha | 101INFOTECH](https://www.youtube.com/watch?v=gu1F9TSP1Qw)
 - [Nepal&#39;s First Free Location API | Nepal Location](https://www.youtube.com/watch?v=SChIAXENhzg)
 - [Install React in Laravel Tutorial  | 101 INFOTECH | ft. Sagar Chettri](https://www.youtube.com/watch?v=wSz8xQmdZ5E)
-- [UI/UX design for Cab Booking App &lpar;Timelapse&rpar;  || FIGMA || 101infotech || Satyendra Bhattarai](https://www.youtube.com/watch?v=G7hJUjsdEqc)
 <!-- YOUTUBE:END -->
 
 [website]: https://sagarchhetri101.com.np
