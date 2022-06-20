@@ -52,11 +52,11 @@
 ### Latest Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [MOTION GRAPHICS IN 2022](https://101infotech.com.np/blogs/motion-graphics-in-2022-MbL2MfplSv)
+- [HOW TO GAIN WEIGHT FAST: 7 SECRETS](https://101infotech.com.np/blogs/how-to-gain-weight-fast-7-secrets-pkUHHoF5GE)
+- [THE BEAUTY OF HER](https://101infotech.com.np/blogs/the-beauty-of-her-h3Spp6Pgj1)
 - [OUR BODY&amp;#039;S ABILITY TO SELF HEAL](https://101infotech.com.np/blogs/our-bodys-ability-to-self-heal-YC6aTznTn0)
 - [HOW WILL AGI IMPACT OUR FUTURE?](https://101infotech.com.np/blogs/how-will-agi-impact-our-future-lwNOEjJcf0)
-- [THIS IS WHY I LOVE GRAPHIC DESIGNING](https://101infotech.com.np/blogs/this-is-why-i-love-graphic-designing-j982wLh05b)
-- [WHY SHOULD WE BEGIN INVESTING IN THE STOCK MARKET?](https://101infotech.com.np/blogs/why-should-we-begin-investing-in-the-stock-market-mePbSf8oig)
-- [&lpar;END OF +2… NOW WHAT?&rpar; THE REAL STRUGGLE BEGINS…](https://101infotech.com.np/blogs/end-of-2-now-what-the-real-struggle-begins-H8MS3YL0Ek)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
