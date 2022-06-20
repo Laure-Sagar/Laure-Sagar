@@ -52,11 +52,11 @@
 ### Latest Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [OUR BODY&amp;#039;S ABILITY TO SELF HEAL](https://101infotech.com.np/blogs/our-bodys-ability-to-self-heal-YC6aTznTn0)
 - [HOW WILL AGI IMPACT OUR FUTURE?](https://101infotech.com.np/blogs/how-will-agi-impact-our-future-lwNOEjJcf0)
 - [THIS IS WHY I LOVE GRAPHIC DESIGNING](https://101infotech.com.np/blogs/this-is-why-i-love-graphic-designing-j982wLh05b)
 - [WHY SHOULD WE BEGIN INVESTING IN THE STOCK MARKET?](https://101infotech.com.np/blogs/why-should-we-begin-investing-in-the-stock-market-mePbSf8oig)
 - [&lpar;END OF +2… NOW WHAT?&rpar; THE REAL STRUGGLE BEGINS…](https://101infotech.com.np/blogs/end-of-2-now-what-the-real-struggle-begins-H8MS3YL0Ek)
-- [5 HABITS THAT CHANGED MY LIFE FROM INTROVERT TO CEO](https://101infotech.com.np/blogs/5-habits-that-changed-my-life-from-introvert-to-ceo-EKDTjFxrED)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
