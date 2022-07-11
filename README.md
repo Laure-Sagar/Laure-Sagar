@@ -52,11 +52,11 @@
 ### Latest Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [VIRGIN HYPERLOOP | FAST, EFFORTLESS JOURNEYS | SHUBHA PRADHAN](https://101infotech.com.np/blogs/virgin-hyperloop-fast-effortless-journeys-shubha-pradhan-MIacb0u2yY)
 - [5 HABITS THAT CHANGED MY LIFE FROM INTROVERT TO CEO](https://101infotech.com.np/blogs/5-habits-that-changed-my-life-from-introvert-to-ceo-EKDTjFxrED)
 - [TECH-CELEBRATED AFTER SPENDING A YEAR LIVING ONLINE.](https://101infotech.com.np/blogs/tech-celebrated-after-spending-a-year-living-online-5DKNZ5LMRu)
 - [MOTION GRAPHICS IN 2022](https://101infotech.com.np/blogs/motion-graphics-in-2022-MbL2MfplSv)
 - [HOW TO GAIN WEIGHT FAST: 7 SECRETS](https://101infotech.com.np/blogs/how-to-gain-weight-fast-7-secrets-pkUHHoF5GE)
-- [THE BEAUTY OF HER](https://101infotech.com.np/blogs/the-beauty-of-her-h3Spp6Pgj1)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
