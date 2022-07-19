@@ -52,11 +52,11 @@
 ### Latest Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [WHAT IF &amp;#039;SQUID GAME&amp;#039; WAS A NEPALI SERIES?](https://101infotech.com.np/blogs/what-if-squid-game-was-a-nepali-series-veC91yuZpI)
 - [MAKE YOUR UI/UX GREAT? READ THESE | AYUSH KHADKA](https://101infotech.com.np/blogs/make-your-uiux-great-read-these-ayush-khadka-Bnqnm4ibK5)
 - [VIRGIN HYPERLOOP | FAST, EFFORTLESS JOURNEYS | SHUBHA PRADHAN](https://101infotech.com.np/blogs/virgin-hyperloop-fast-effortless-journeys-shubha-pradhan-MIacb0u2yY)
 - [5 HABITS THAT CHANGED MY LIFE FROM INTROVERT TO CEO](https://101infotech.com.np/blogs/5-habits-that-changed-my-life-from-introvert-to-ceo-EKDTjFxrED)
 - [TECH-CELEBRATED AFTER SPENDING A YEAR LIVING ONLINE.](https://101infotech.com.np/blogs/tech-celebrated-after-spending-a-year-living-online-5DKNZ5LMRu)
-- [MOTION GRAPHICS IN 2022](https://101infotech.com.np/blogs/motion-graphics-in-2022-MbL2MfplSv)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
