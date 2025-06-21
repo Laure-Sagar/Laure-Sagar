@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=SAGARCHHETRI101.COM.NP&style=for-the-badge&url=https://sagarchhetri101.com.np)](https://sagarchhetri101.com.np)
 [![Twitter Follow](https://img.shields.io/twitter/follow/laure_sagar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=laure_sagar)
 
-## I'm a Full Stack Developer!!
+## I'm a Digital Marketer & Business Owner, Ex-Developer!!
 
 - 🏢 I am founder of [101infotech][101infotech]
 - 🌱 I’m currently learning
